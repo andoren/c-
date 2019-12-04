@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1575358221 source:e:\repos\c++\beadando1130\truck.cpp
+	"truck.hpp"
+
+1575306483 e:\repos\c++\beadando1130\truck.hpp
+	"vehicle.hpp"
+
+1575307896 e:\repos\c++\beadando1130\vehicle.hpp
+	<string>
+
+1575307920 source:e:\repos\c++\beadando1130\machinery.cpp
+	"machinery.hpp"
+
+1575306478 e:\repos\c++\beadando1130\machinery.hpp
+	"vehicle.hpp"
+
+1575308082 source:e:\repos\c++\beadando1130\vehicle.cpp
+	"vehicle.hpp"
+
+1575277796 source:e:\repos\c++\beadando1130\menu_item.cpp
+	"menu_item.hpp"
+
+1575284189 e:\repos\c++\beadando1130\menu_item.hpp
+	<string>
+
+1575468796 source:e:\repos\c++\beadando1130\main.cpp
+	<iostream>
+	"menu.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+
+1575469908 e:\repos\c++\beadando1130\menu.hpp
+	<list>
+	"menu_item.hpp"
+	"vehicle.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+	<string>
+	"forsearch.hpp"
+	<vector>
+
+1575471316 source:e:\repos\c++\beadando1130\menu.cpp
+	"menu.hpp"
+	<iostream>
+	"vehicle.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+	<list>
+	<string>
+	<algorithm>
+	"forsearch.hpp"
+	<fstream>
+	<istream>
+	<vector>
+	<sstream>
+
+1575297957 source:e:\repos\c++\beadando1130\forsearch.cpp
+	"forsearch.hpp"
+
+1575297940 e:\repos\c++\beadando1130\forsearch.hpp
+	<string>
+	<list>
+
+1575468747 source:e:\repos\c++\beadando1130\wordseparetedby.cpp
+	"wordseparetedby.hpp"
+
+1575469133 e:\repos\c++\beadando1130\wordseparetedby.hpp
+	<string>
+	<istream>
+
+1575297957 source:e:\repos\c++beadando\beadando1130\forsearch.cpp
+	"forsearch.hpp"
+
+1575297940 e:\repos\c++beadando\beadando1130\forsearch.hpp
+	<string>
+	<list>
+
+1575307920 source:e:\repos\c++beadando\beadando1130\machinery.cpp
+	"machinery.hpp"
+
+1575306478 e:\repos\c++beadando\beadando1130\machinery.hpp
+	"vehicle.hpp"
+
+1575307896 e:\repos\c++beadando\beadando1130\vehicle.hpp
+	<string>
+
+1575468796 source:e:\repos\c++beadando\beadando1130\main.cpp
+	<iostream>
+	"menu.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+
+1575469908 e:\repos\c++beadando\beadando1130\menu.hpp
+	<list>
+	"menu_item.hpp"
+	"vehicle.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+	<string>
+	"forsearch.hpp"
+	<vector>
+
+1575284189 e:\repos\c++beadando\beadando1130\menu_item.hpp
+	<string>
+
+1575306483 e:\repos\c++beadando\beadando1130\truck.hpp
+	"vehicle.hpp"
+
+1575277796 source:e:\repos\c++beadando\beadando1130\menu_item.cpp
+	"menu_item.hpp"
+
+1575358221 source:e:\repos\c++beadando\beadando1130\truck.cpp
+	"truck.hpp"
+
+1575308082 source:e:\repos\c++beadando\beadando1130\vehicle.cpp
+	"vehicle.hpp"
+

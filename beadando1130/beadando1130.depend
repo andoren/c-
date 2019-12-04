@@ -115,3 +115,18 @@
 1575308082 source:e:\repos\c++beadando\beadando1130\vehicle.cpp
 	"vehicle.hpp"
 
+1575472021 source:e:\repos\c++beadando\beadando1130\menu.cpp
+	"menu.hpp"
+	<iostream>
+	"vehicle.hpp"
+	"truck.hpp"
+	"machinery.hpp"
+	<list>
+	<string>
+	<algorithm>
+	"forsearch.hpp"
+	<fstream>
+	<istream>
+	<vector>
+	<sstream>
+
